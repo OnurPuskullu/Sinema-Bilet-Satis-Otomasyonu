@@ -1,0 +1,11 @@
+C:\Users\Ali Onur\source\repos\SinemaBiletSatışOtomasyonu\SinemaBiletSatışOtomasyonu\obj\Debug\SinemaBiletSatışOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Ali Onur\source\repos\SinemaBiletSatışOtomasyonu\SinemaBiletSatışOtomasyonu\obj\Debug\SinemaBiletSatışOtomasyonu.Form1.resources
+C:\Users\Ali Onur\source\repos\SinemaBiletSatışOtomasyonu\SinemaBiletSatışOtomasyonu\obj\Debug\SinemaBiletSatışOtomasyonu.Properties.Resources.resources
+C:\Users\Ali Onur\source\repos\SinemaBiletSatışOtomasyonu\SinemaBiletSatışOtomasyonu\obj\Debug\SinemaBiletSatışOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Ali Onur\source\repos\SinemaBiletSatışOtomasyonu\SinemaBiletSatışOtomasyonu\obj\Debug\SinemaBiletSatışOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ali Onur\source\repos\SinemaBiletSatışOtomasyonu\SinemaBiletSatışOtomasyonu\bin\Debug\SinemaBiletSatışOtomasyonu.exe.config
+C:\Users\Ali Onur\source\repos\SinemaBiletSatışOtomasyonu\SinemaBiletSatışOtomasyonu\bin\Debug\SinemaBiletSatışOtomasyonu.exe
+C:\Users\Ali Onur\source\repos\SinemaBiletSatışOtomasyonu\SinemaBiletSatışOtomasyonu\bin\Debug\SinemaBiletSatışOtomasyonu.pdb
+C:\Users\Ali Onur\source\repos\SinemaBiletSatışOtomasyonu\SinemaBiletSatışOtomasyonu\obj\Debug\SinemaBiletSatışOtomasyonu.exe
+C:\Users\Ali Onur\source\repos\SinemaBiletSatışOtomasyonu\SinemaBiletSatışOtomasyonu\obj\Debug\SinemaBiletSatışOtomasyonu.pdb
+C:\Users\Ali Onur\source\repos\SinemaBiletSatışOtomasyonu\SinemaBiletSatışOtomasyonu\obj\Debug\SinemaBiletSatışOtomasyonu.Form2.resources
